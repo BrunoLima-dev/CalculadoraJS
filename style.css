@@ -22,7 +22,6 @@ h1 {
 
 .aviso {
     background: -webkit-linear-gradient(45deg, #c97874 10%, #463042 90%);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #8c5059;
     font-weight: 400;
